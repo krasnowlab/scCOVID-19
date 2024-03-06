@@ -2,4 +2,4 @@
 Early stages of deadly respiratory diseases such as COVID-19 have been challenging to elucidate due to the lack of an experimental system that recapitulates the cellular and structural complexity of the human lung, while allowing precise control over disease initiation and systematic interrogation of molecular events at cellular resolution. We show that droplet-based single cell RNA sequencing of healthy human lung slices cultured ex vivo productively infected with SARS-CoV-2 can distinguish the cellular identities of ~384,000 human lung cells distributed across the major tissue compartments and define the cellular tropism of the virus and its distinct effects on host cell gene expression. 
 Learn more in our [manuscript](https://www.biorxiv.org/content/10.1101/2022.05.10.491266v2) or explore the data in your browser with [cellxgene](https://cellxgene.cziscience.com/collections/2a9a17c9-1f61-4877-b384-b8cd5ffa4085).
 
-R code for viral infection pseudotime analysis in human lung macrophages is deposited here (Figs 4, and S4).
+R code for viral infection pseudotime analysis in human lung macrophages is deposited here.
